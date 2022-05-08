@@ -1,5 +1,4 @@
-from pickletools import floatnl
-
+#Ебать какой простой калькулятор
 
 vi = 0
 a = 0
