@@ -27,5 +27,3 @@ elif vi == '*':
 
     print (t)
     print(a*b)
-
-    
